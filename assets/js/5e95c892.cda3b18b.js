@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbeetle_vault_wiki=globalThis.webpackChunkbeetle_vault_wiki||[]).push([[9647],{7121:(e,a,l)=>{l.r(a),l.d(a,{default:()=>h});l(6540);var s=l(4164),r=l(7559),t=l(5500),u=l(2831),i=l(1656),c=l(4848);function h(e){return(0,c.jsx)(t.e3,{className:(0,s.A)(r.G.wrapper.docsPages),children:(0,c.jsx)(i.A,{children:(0,u.v)(e.route.routes)})})}}}]);
