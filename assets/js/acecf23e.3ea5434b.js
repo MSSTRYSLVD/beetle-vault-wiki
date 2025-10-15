@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbeetle_vault_wiki=globalThis.webpackChunkbeetle_vault_wiki||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/beetle-vault-wiki/blog","blogTitle":"Blog","authorsListPath":"/beetle-vault-wiki/blog/authors"}')}}]);
