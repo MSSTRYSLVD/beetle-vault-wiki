@@ -18183,7 +18183,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   "title": "Beetle Vault Wiki",
   "tagline": "Survice the Vault!",
-  "favicon": "img/favicon-001.ico",
+  "favicon": "img/favicon-0001.ico",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
